@@ -14,3 +14,4 @@ Analisa Kinerja Bisnis Kimia Farma 2020 - 2023
   ● Indonesia's Geo Map Untuk Total Profit Masing-masing Provinsi
   ● Dan analisis lainnya.
 - Link untuk dashboard pada looker studio : https://lookerstudio.google.com/reporting/04520e81-6f8d-46fa-ac95-a15638473700
+- Link video : https://drive.google.com/file/d/1chIT55HJga_9TEzIs_rkYE5ADYqIq2w-/view
